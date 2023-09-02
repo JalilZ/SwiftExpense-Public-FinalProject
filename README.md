@@ -14,9 +14,7 @@
 <h3 align="center">Swift Expense</h3>
 
 <p align="center">
-    An awesome application to manage your employee's reimbursement requests<br/>
-    Guest username1: <b>Jack</b> Password: <b>p</b><br/>
-    Guest username2 (username1's supervisor): <b>Anna</b> Password: <b>p</b>
+    An awesome application to manage your employee's reimbursement requests
   </p>
 </div>
 
